@@ -1,0 +1,6 @@
+{
+  "name": "TutorHub",
+  "description": "A global Education Marketplace SaaS combining course catalog, bookings, LMS, and AI-powered learning assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
